@@ -1,3 +1,5 @@
 import * as THREE from 'three';
 
-console.log("Successfully imported threejs on main webpage. (But not right now).")
+const scene = new THREE.Scene();
+
+console.log("Successfully imported threejs on main webpage and instantiated a scene.")
