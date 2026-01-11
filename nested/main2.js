@@ -1,5 +1,4 @@
-import * as THREE from 'three';
-console.log("Imported threejs again, now on other page.")
+/*import * as THREE from 'three';
 
 const scene = new THREE.Scene();
 
@@ -24,4 +23,5 @@ function animate() {
 
   renderer.render( scene, camera );
 
-}
+}*/
+console.log("Imported threejs again, now on other page. (But not right now)")
