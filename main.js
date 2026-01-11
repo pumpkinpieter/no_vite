@@ -24,3 +24,4 @@ function animate() {
 }
 
 console.log("Now we pasted the rest of the threejs scene code, will it deploy?")
+console.log("It didn't.  Please redeploy github?  Pretty please?")
