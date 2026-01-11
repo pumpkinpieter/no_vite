@@ -24,3 +24,4 @@ function animate() {
 }
 console.log("Scene should appear on linked page, assuming paths are correct.")
 console.log("They weren't, the ./nested/main2.js needed to be ./main2.js")
+console.log("Please re-deploy!")
